@@ -1,2 +1,2 @@
-# BaseConfig-VSCode
-Minha configuração básica no VSCode
+# BaseConfig
+Minha configuração básica para coisas
