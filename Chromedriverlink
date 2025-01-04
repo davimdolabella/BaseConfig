@@ -1,0 +1,4 @@
+use this link to download chromedriver
+before use this link, switch the version in the link to your chrome version
+win 64: https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/win64/chromedriver-win64.zip
+win 32: https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/win32/chromedriver-win32.zip
